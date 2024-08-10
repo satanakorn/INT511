@@ -3,5 +3,4 @@ function convertNIToBR(text: String) : String {
 }
 
 var text: String = "Program\n JavaScript\n TypeScript"
-
 console.log(convertNIToBR(text))
